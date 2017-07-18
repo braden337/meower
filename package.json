@@ -1,0 +1,25 @@
+{
+  "name": "meower",
+  "version": "1.0.1",
+  "description": "This program will meow at you from the commandline",
+  "main": "meow.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/braden337/meower.git"
+  },
+  "keywords": [
+    "meow",
+    "cat",
+    "echo",
+    "hello"
+  ],
+  "author": "Braden <braden@railingcorners.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/braden337/meower/issues"
+  },
+  "homepage": "https://github.com/braden337/meower#readme"
+}
